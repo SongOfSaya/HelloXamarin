@@ -63,8 +63,17 @@ namespace HelloXamarin.Droid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f060003
+			public const int Login = 2131099651;
+			
 			// aapt resource value: 0x7f060000
 			public const int myButton = 2131099648;
+			
+			// aapt resource value: 0x7f060002
+			public const int passWord = 2131099650;
+			
+			// aapt resource value: 0x7f060001
+			public const int userName = 2131099649;
 			
 			static Id()
 			{
@@ -98,8 +107,14 @@ namespace HelloXamarin.Droid
 			// aapt resource value: 0x7f040001
 			public const int app_name = 2130968577;
 			
+			// aapt resource value: 0x7f040003
+			public const int cancel = 2130968579;
+			
 			// aapt resource value: 0x7f040000
 			public const int hello = 2130968576;
+			
+			// aapt resource value: 0x7f040002
+			public const int login = 2130968578;
 			
 			static String()
 			{
